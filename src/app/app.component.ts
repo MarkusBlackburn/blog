@@ -18,7 +18,7 @@ import { MarkdownModule } from 'ngx-markdown';
       NavbarComponent, 
       FormsModule, 
       HttpClientModule,
-      MarkdownModule
+      MarkdownModule,
     ]
 })
 export class AppComponent {
